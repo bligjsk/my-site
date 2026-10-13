@@ -1,1 +1,11 @@
-# my-site
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Мой сайт</title>
+</head>
+<body>
+    <h1>Привет!</h1>
+    <p>Это мой первый сайт на GitHub.</p>
+</body>
+</html>
